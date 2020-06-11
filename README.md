@@ -1,2 +1,2 @@
-# auth-server
+# Auth Server
 A 'jwt' auth backend
